@@ -1,5 +1,6 @@
 & "..\src\Dogfood\Dogfood_DevMain.ps1"
 & "..\src\Dogfood\Dogfood_CC.ps1"
+& "..\src\Dogfood\Dogfood_DCEXT.ps1"
 Write-Output ""
 & "..\src\Microsoft\Microsoft_DevMain.ps1"
 & "..\src\Microsoft\Microsoft_CC.ps1"
